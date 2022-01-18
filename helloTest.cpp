@@ -19,7 +19,7 @@ public:
 protected:
     void testHelloWorld(void)
     {
-        system("./hello >nul 2>nul");
+        system("./hello >/dev/null 2>/dev/null");
     }
 };
 
