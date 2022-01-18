@@ -1,4 +1,4 @@
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example event parameter](https://github.com/rafalcode/cppghact/actions/workflows/helloAction.yml/badge.svg?event=push)
 
 # cppghact
 
