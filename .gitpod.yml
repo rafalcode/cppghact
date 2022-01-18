@@ -1,0 +1,4 @@
+tasks:
+  - name: do apt install libcppunit-dev
+    init: |
+      sudo apt install -y libcppunit-dev 
